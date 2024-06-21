@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Janudi Adhikari</h1>
-<h3 align="center">Passionate Software Developer from Sri Lanka</h3>
+<h3 align="center">Passionate IT Student</h3>
 <br>
 <table align="center">
 <tr border="none">
