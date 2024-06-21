@@ -11,6 +11,8 @@
 
 
 - 🌱 I’m currently learning **Mern Stack Development**
+  
+- 🧑‍🎓 I’m an Undergraduate at SLIIT
 
 - 💬 Ask me about **Java**
 
