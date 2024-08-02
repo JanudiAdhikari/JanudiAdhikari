@@ -10,11 +10,11 @@
 <td width="50%" align="left">
 
 
-- 🌱 I’m currently learning **Mern Stack Development**
+- 🌱 I’m currently learning **Flutter**
   
 - 🧑‍🎓 I’m an Undergraduate at SLIIT
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me *januditharushika@gmail.com*
 
